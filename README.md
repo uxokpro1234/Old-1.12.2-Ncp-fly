@@ -6,6 +6,8 @@
 **Shoutout to the boys for sharing this code with me.**
 
 ## NcpFly is an Oyvey pasted module designed to "disable" ac in a way, that gives you ability to move(fly) at insane speeds and phase trough bocks.
+
+**NcpFly** is a sophisticated movement controller module: it hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven programming, real-time movement control, and networked game logic**.
 ```
 package me.alpha432.oyvey.features.modules.movement;
 
@@ -212,4 +214,4 @@ NcpFly demonstrates:
 - **Timers & throttling:** Ensures controlled and efficient updates.  
 - **Rendering & debugging:** Visualizes server-side positions for research and analysis.  
 
-**NcpFly** is a sophisticated movement controller module: it hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven programming, real-time movement control, and networked game logic**.
+
