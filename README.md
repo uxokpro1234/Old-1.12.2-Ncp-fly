@@ -123,8 +123,6 @@ public class NcpFly extends Module {
 - Adjusts flight speed, vertical glide, and direction programmatically.
 - Optionally visualizes a “ghost” position or last server-corrected position in 3D space.
 
-Think of it as a **custom movement controller** that hooks into events and the network system.
-
 ---
 
 ### ⚙️ Settings / Configuration
