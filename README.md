@@ -198,9 +198,9 @@ The class is **event-driven**, reacting to several in-game events:
 
 ---
 
-### 💡 Conceptual Takeaways
+### 💡 Concept
 
-Even without using this in-game, NcpFly demonstrates:
+NcpFly demonstrates:
 
 - **Event-driven design:** Reacts to specific game events (`MoveEvent`, `PacketEvent`, etc.).  
 - **Direct motion manipulation:** Overrides velocity and position to simulate flight.  
@@ -208,4 +208,4 @@ Even without using this in-game, NcpFly demonstrates:
 - **Timers & throttling:** Ensures controlled and efficient updates.  
 - **Rendering & debugging:** Visualizes server-side positions for research and analysis.  
 
-In short, **NcpFly** is a sophisticated movement controller module: it hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven programming, real-time movement control, and networked game logic**.
+**NcpFly** is a sophisticated movement controller module: it hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven programming, real-time movement control, and networked game logic**.
