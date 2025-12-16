@@ -45,7 +45,7 @@ public class NcpFly extends Module {
     public void onDisable()  {
         mc.player.capabilities.isFlying = false;
         mc.player.noClip = false;
-        //System.out.println("aким аКИМ, Гупа Вилпа попуск, пердак, Tokenlogged succes, ezezezezezez");
+        //System.out.println("aким аКИМ, Гупа Вилпа попуск, sanja pomog, respektuha brat, ezezezezezez");
     }
     @SubscribeEvent
     public void onUpdateMove(MoveEvent event) {
