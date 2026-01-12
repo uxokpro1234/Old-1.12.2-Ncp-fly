@@ -2,12 +2,13 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.12.2-green)
 ![Java](https://img.shields.io/badge/Java-8-orange)
+![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 
 **Shoutout to the boys for sharing this code with me.**
 
-## NcpFly is an Oyvey pasted module designed to "disable" ac in a way, that gives you ability to move(fly) at insane speeds and phase trough bocks.
+## NcpFly is an Oyvey pasted module designed to "disable" ac in a way, that gives you ability to move(fly) at insane speeds and phase trough bocks. Looks insane from other players perspective. It has delay in client-side and server-side, the server takes somw time to move you. It was found in some Fly module. It started like: "yo lets make it fly trough blocks, because it is MOVIN". I'on remember client name. 
 
-**NcpFly** is a sophisticated movement controller module, which hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven programming, real-time movement control, and networked game logic**.
+**NcpFly** is a splendid, sophisticated movement controller module, which hooks into the game loop, updates player motion, synchronizes with the server, and optionally renders server-side positions — a perfect example of **event-driven module, real-time movement control, and networked game logic**.
 ```java
 package me.alpha432.oyvey.features.modules.movement;
 
@@ -125,7 +126,7 @@ public class NcpFly extends Module {
 <br><br><br>
 
 
-## 🛩 NcpFly Module Overview
+## NcpFly Overview
 - Allows the player to fly by controlling motion directly.
 - Intercepts and modifies network packets related to player position.
 - Adjusts flight speed, vertical glide, and direction programmatically.
@@ -133,7 +134,7 @@ public class NcpFly extends Module {
 
 ---
 
-### ⚙️ Settings / Configuration
+### Settings / Configuration
 
 The module exposes several configurable values:
 
@@ -149,14 +150,14 @@ These allow **dynamic tweaking of movement behavior**.
 
 ---
 
-### 🧠 Core State Variables
+### THE MOST important variables(i had to put it there ifykyk)
 
 - `timer` — Tracks elapsed time to throttle packet sending and movement logic.  
 - `realx, realy, realz` — Store server-corrected positions received via packets. Used for rendering a **ghost player box**.
 
 ---
 
-### 🔄 Event-driven Structure
+### Event-driven Structure
 
 The class is **event-driven**, reacting to several in-game events:
 
@@ -188,7 +189,7 @@ The class is **event-driven**, reacting to several in-game events:
 
 ---
 
-### 🚀 Movement & Packet Logic
+### Movement & Packets
 
 - **Flight:** Motion vectors (`motionX, motionY, motionZ`) computed and applied each tick.  
 - **Packet Flooding:** Sends multiple position packets each tick (`packets` setting) to simulate precise motion.  
@@ -197,14 +198,14 @@ The class is **event-driven**, reacting to several in-game events:
 
 ---
 
-### 🔧 Lifecycle
+### Lifecycle
 
 - `onDisable()` — Resets flight and collision settings when the module is turned off.  
 - `Constructor (NcpFly())` — Registers the module, its category (Movement), and default state.
 
 ---
 
-### 💡 Concept
+### Concept
 
 NcpFly demonstrates:
 
