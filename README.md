@@ -4,9 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 
-![Demo](5b5tfly.mov)
-
-
+<video src="5b5tfly.mov"></video> 
 
 **Shoutout to the boys for sharing this code with me.**
 
