@@ -4,7 +4,7 @@
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 
-[<video src="5b5tfly.mov"></video> ](https://github.com/<uxokpro1234>/<Old-1.12.2-Ncp-fly>/assets/<id>/<hash>)
+[[<video src="5b5tfly.mov"></video> ](https://github.com/<uxokpro1234>/<Old-1.12.2-Ncp-fly>/assets/<id>/<hash>)](https://github.com/uxokpro1234/Old-1.12.2-Ncp-fly/blob/main/5b5tfly.mov)
 
 **Shoutout to the boys for sharing this code with me.**
 
