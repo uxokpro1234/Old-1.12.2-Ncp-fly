@@ -4,10 +4,8 @@
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 
-<video controls>
-    <source src="5b5tfly.mov" type="video/quicktime">
-    Your browser does not support the video tag.
-</video>
+![Demo](5b5tfly.mov)
+
 
 
 **Shoutout to the boys for sharing this code with me.**
