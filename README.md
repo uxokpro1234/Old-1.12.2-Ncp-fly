@@ -4,7 +4,11 @@
 ![Java](https://img.shields.io/badge/Java-8-orange)
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 
-<img src = "5b5tfly.mov" width = 50%>
+<video controls>
+    <source src="5b5tfly.mov" type="video/quicktime">
+    Your browser does not support the video tag.
+</video>
+
 
 **Shoutout to the boys for sharing this code with me.**
 
