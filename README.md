@@ -6,9 +6,7 @@
 ![Java](https://img.shields.io/badge/AAC-grey)
 
 
-<video width="600" controls>
-  <source src="https://raw.githubusercontent.com/uxokpro1234/Old-1.12.2-Ncp-fly/main/5b5tfly.mp4" type="video/mp4">
-</video>
+![Video]https://github.com/user-attachments/assets/d4b0f2c6-5383-42b2-a3f8-cbb72f2b9808
 
 **Shoutout to the boys for sharing this code with me.**
 
