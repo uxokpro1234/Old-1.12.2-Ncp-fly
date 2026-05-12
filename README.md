@@ -8,7 +8,6 @@
 
 ![Video](https://github.com/user-attachments/assets/d4b0f2c6-5383-42b2-a3f8-cbb72f2b9808)
 
-(https://github.com/user-attachments/assets/d4b0f2c6-5383-42b2-a3f8-cbb72f2b9808)
 **Shoutout to the boys for sharing this code with me.**
 
 ## NcpFly is an Oyvey pasted module designed to "disable" ac in a way, that gives you ability to move(fly) at insane speeds and phase trough bocks. Looks insane from other players perspective. It has delay in client-side and server-side, the server takes somw time to move you. It was found in some Fly module. It started like: "yo lets make it fly trough blocks, because it is MOVIN". I'on remember client name. 
