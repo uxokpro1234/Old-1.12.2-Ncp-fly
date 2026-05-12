@@ -5,9 +5,9 @@
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 ![Java](https://img.shields.io/badge/AAC-grey)
 
-<video width="600" controls>
-  <source src="5b5tfly.mp4" type="video/mp4">
-</video>
+
+<source src="5b5tfly.mp4" type="video/mp4">
+
 **Shoutout to the boys for sharing this code with me.**
 
 ## NcpFly is an Oyvey pasted module designed to "disable" ac in a way, that gives you ability to move(fly) at insane speeds and phase trough bocks. Looks insane from other players perspective. It has delay in client-side and server-side, the server takes somw time to move you. It was found in some Fly module. It started like: "yo lets make it fly trough blocks, because it is MOVIN". I'on remember client name. 
