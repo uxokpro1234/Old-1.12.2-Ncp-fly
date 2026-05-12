@@ -5,8 +5,8 @@
 ![Java](https://img.shields.io/badge/NoCheatPlus-blue)
 ![Java](https://img.shields.io/badge/AAC-grey)
 
-<video width = 50%>
-<source src = "5b5tfly.mp4" type="5b5tfly.mp4"/>
+<video width="600" controls>
+  <source src="5b5tfly.mp4" type="video/mp4">
 </video>
 **Shoutout to the boys for sharing this code with me.**
 
