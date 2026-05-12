@@ -6,7 +6,7 @@
 ![Java](https://img.shields.io/badge/AAC-grey)
 
 <video width = 50%>
-<source src = "5b5tfly.mov" type="video/mov"/>
+<source src = "5b5tfly.mov" type="5b5tfly.mov"/>
 </video>
 **Shoutout to the boys for sharing this code with me.**
 
