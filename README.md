@@ -204,8 +204,8 @@ The class is **event-driven**, reacting to several in-game events:
 
 ### Lifecycle
 
-- `onDisable()` — Resets flight and collision settings when the module is turned off.  
-- `Constructor (NcpFly())` — Registers the module, its category (Movement), and default state.
+- `onDisable()` - Resets flight and collision settings when the module is turned off.  
+- `Constructor (NcpFly())` - Registers the module, its category (Movement), and default state.
 
 ---
 
